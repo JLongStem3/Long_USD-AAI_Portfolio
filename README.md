@@ -1,0 +1,3 @@
+# USD-AAI_Portfolio
+
+Welcome this repository is a collection of projects and assignments that I have collected throughout my experience as a Master's Student at the University of San Diego studying their Applied Artificial Intelligence program. Many of the projects included are of my own individual work, some however began as a team/group project, which then I later revise and adjusted to fit my portfolio. With a Bachelors in Physics and prior experience working with AutoCad, and 3D simulation, I am relatively new to GitHub as a portfolio reference. I hope you tag along, enjoy the journey and reach out to me if interested in any research ideas! Thank you,
