@@ -16,6 +16,7 @@ This project introduces key computer vision concepts through a three-part assign
 
 _Files:_  
 _YOLO for Object Detection.ipynb = Stand Alone Notebook_  
+![Screenshot 2024-12-17 223843](https://github.com/user-attachments/assets/bf53028c-1ab0-4d38-8a43-9fcd1ea71c60)
 
 ___
 **[(3) Natural Language Processing](https://github.com/JLongStem3/Long_USD-AAI_Portfolio/tree/main/Natural%20Language%20Processing)**  
