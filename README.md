@@ -3,6 +3,9 @@
 Welcome.  
 This repository is a collection of projects that I have collected throughout my experience as a Master's Student at the _University of San Diego_ enrolled in their _Applied Artificial Intelligence_ program. I am new to GitHub, with a Bachelors in Physics and prior experience with traditional life-science and engineering. I am passionate about applying my scientific knowledge to build impactful and applicable real-world solutions using AI. My top interest right now is in using computer vision to research brain imaging data, driven by my understanding of brain trauma and past experience as a former student-athlete. I am still open to exploring different areas of research.
 ___
+
+_**Completed**_  
+___
 **[(1) AI Fundamentals & Applications](https://github.com/JLongStem3/Long_USD-AAI_Portfolio/tree/main/AI%20Fundamentals%20%26%20Application%20-%20Prediction%20Model)**  
 This project explores the fundamentals of Artificial Intelligence (AI) by comparing two machine learning algorithms, Random Forest and XGBoost, for predictive analysis using the [Heart Disease Prediction](https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction) dataset. Exploratory Data Analysis (EDA) reveals key trends, such as a strong correlations and highlights imbalances that may introduce bias. This project emphasizes machine learning development and real-world applications.
 
@@ -28,3 +31,5 @@ _Chatbot_Ubuntu.ipynb = Notebook (Run the code from the checkpoint to access the
 _checkpoint-500 = Model (Load this model checkpoint to prevent retraining)_  
 
 ![Chatbot](https://github.com/user-attachments/assets/692bd8df-3942-40d6-afe9-8ea3c73d0e4d)
+___
+
