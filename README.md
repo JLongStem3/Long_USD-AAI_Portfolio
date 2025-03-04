@@ -4,7 +4,11 @@ _AI Engineer / Scientist_
 
 Welcome  
 I'm Johnathan and I will graduate this summer with a Master's in _Applied Artificial Intelligence_ from the  _University of San Diego_. I also have a Bachelor's in Physics, so I really enjoy grasping theoretical concepts and being able to find impactful, almost immediate, use-cases for them with artificial intelligence. My prior experience includes material-science & engineering, and education. I pride myself in being a multifaceted technologist with a strong science background, and am open to opportunities of growth and development. Currently, continued education and research specializing in computer vision to detect neurodegenerative diseases sounds like an attractive option.
+[_Q2-Resume(25)_](https://github.com/user-attachments/files/19073907/Q2_Res_Long.pdf)
 ___
+
+
+
 ## _In the Works_  
 **[(1) USD Tech Challenge Competition](https://www.sandiego.edu/engineering/student-innovation/etrack-entrepreneurship-program/tech-competition/)** _(2025)_  
 For my university's annual Tech Competition, I am submitting a AI-enabled Micro Aerial Vehicle intended for personal accomodation. A sleek energy conservative design allows for maximum battery life while computer vision algorithms are used for recognition and proximity. My background in Physics supports me in exploring the depths of fluid mechanics when considering a unique aerial design based upon Bernoulli's Principle. My skills in artificial intelligence presents me with the skills to build functional algorithms to automate the drone. **All code used for the project will be uploaded here after the project deadline on April 15th, 2025**.  
