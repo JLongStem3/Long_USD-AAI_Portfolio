@@ -1,4 +1,5 @@
-# USD-AAI_Portfolio
+# Johnathan Long
+_AI Engineer / Scientist_  
 <img src="https://github.com/user-attachments/assets/741ae69f-8ec7-4143-b32f-5dc32e74b165" width="300">
 
 Welcome  
