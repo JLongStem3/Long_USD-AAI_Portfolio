@@ -14,13 +14,14 @@ _*Project is at concept stage and building CAD model for CFD simulation_
 _![0001_2](https://github.com/user-attachments/assets/ded22493-d584-4219-b69c-fad85e49eca4)  
 _(The following is NOT the functioning model but only a conceptual visual designed in blender)_  
 
+
 ___
 **[(2) Teaching with ChatGPT - Workshop](https://github.com/user-attachments/files/19065534/Design.Material.GenAI.pdf)** _(2025)_  
-![IMG_8524](https://github.com/user-attachments/assets/c2eca954-e736-4790-864b-4644402dd1c0)
+<img src="https://github.com/user-attachments/assets/c2eca954-e736-4790-864b-4644402dd1c0" width="600">  
 Here I host a workshop for teaching with generative AI. The workshop covers the basics of using generative AI, the limitations of AI, what to expect of academic policies in the near future, and so on. This workshop was limited to USD's School of Business which exhibits my ability to interpret highly technical and relevant content into communications digestible for the business side of things. These skills are transferable to technical writing, project managme
-nt, and Science Leadership/Managment. See brief sample of my curriculum design [here](https://github.com/user-attachments/files/19065534/Design.Material.GenAI.pdf).
-![IMG_8549](https://github.com/user-attachments/assets/d2c3cd58-b58a-4edc-8c2e-3b9fbb6f10ae) 
-![IMG_8537](https://github.com/user-attachments/assets/3b4b282c-8c9a-453c-943f-9ed127874a31)
+nt, and Science Leadership/Managment. See brief sample of my curriculum design [here](https://github.com/user-attachments/files/19065534/Design.Material.GenAI.pdf).  
+<img src="https://github.com/user-attachments/assets/d2c3cd58-b58a-4edc-8c2e-3b9fbb6f10ae" width="600">
+<img src="https://github.com/user-attachments/assets/3b4b282c-8c9a-453c-943f-9ed127874a31" width="600"> 
 
 ___
 ## _Completed Projects_  
