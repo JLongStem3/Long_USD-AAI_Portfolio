@@ -41,7 +41,7 @@ Introducing key computer vision methodologies through a three-part assignment in
 
 _Files:_  
 _YOLO for Object Detection.ipynb = Stand Alone Notebook_  
-![Screenshot 2024-12-17 223843](https://github.com/user-attachments/assets/bf53028c-1ab0-4d38-8a43-9fcd1ea71c60)
+<img src="https://github.com/user-attachments/assets/bf53028c-1ab0-4d38-8a43-9fcd1ea71c60" width="400"> 
 
 ___
 **[(5) Building a Chatbot ](https://github.com/JLongStem3/Long_USD-AAI_Portfolio/tree/main/Natural%20Language%20Processing)** _(2024)_    
