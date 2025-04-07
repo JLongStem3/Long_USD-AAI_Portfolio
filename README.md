@@ -18,7 +18,7 @@ _(The following is NOT the functioning model but only a conceptual visual design
 
 ___
 **[(2) Teaching with ChatGPT - Workshop](https://github.com/user-attachments/files/19065534/Design.Material.GenAI.pdf)** _(2025)_  
-Here I host a workshop for teaching with generative AI. The workshop covers the basics of using generative AI, the limitations of AI, what to expect of academic policies in the near future, and so on. This workshop was limited to USD's School of Business which exhibits my ability to interpret highly technical and relevant content into communications digestible for the business side of things. These skills are transferable to technical writing, project managme
+Here I host a workshop for teaching with generative AI. The workshop covers the basics of using generative AI, the limitations of AI, what to expect of academic policies in the near future, and so on. This workshop was limited to USD's School of Business which exhibits my ability to interpret highly technical and relevant content into communications digestible through various sectors. These skills are transferable to technical writing, project managme
 nt, and Science Leadership/Managment. See brief sample of my curriculum design [here](https://github.com/user-attachments/files/19065534/Design.Material.GenAI.pdf).  
 <img src="https://github.com/user-attachments/assets/c2eca954-e736-4790-864b-4644402dd1c0" width="600">  
 <img src="https://github.com/user-attachments/assets/d2c3cd58-b58a-4edc-8c2e-3b9fbb6f10ae" width="600">
