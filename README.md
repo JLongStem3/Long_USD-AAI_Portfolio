@@ -4,7 +4,8 @@ _AI Engineer / Scientist_
 
 Welcome  
 I'm Johnathan and I will graduate this summer with a Master's in _Applied Artificial Intelligence_ from the  _University of San Diego_. I also have a Bachelor's in Physics, so I really enjoy grasping theoretical concepts and being able to find impactful, almost immediate, use-cases for them with artificial intelligence. My prior experience includes material-science & engineering, and education. I pride myself in being a multifaceted technologist with a strong science background, and am open to opportunities of growth and development. Currently, continued education and research specializing in computer vision to detect neurodegenerative diseases sounds like an attractive option.
-[_Q2-Resume(25)_](https://github.com/user-attachments/files/19141569/jlong.update.pdf)
+[_Q2-Resume(25)_](https://github.com/user-attachments/files/19625573/JLong_Q2-Res-4.4.pdf)
+
 ___
 
 ## _In the Works_  
@@ -17,9 +18,10 @@ _(The following is NOT the functioning model but only a conceptual visual design
 
 ___
 **[(2) Teaching with ChatGPT - Workshop](https://github.com/user-attachments/files/19065534/Design.Material.GenAI.pdf)** _(2025)_  
-<img src="https://github.com/user-attachments/assets/c2eca954-e736-4790-864b-4644402dd1c0" width="600">  
 Here I host a workshop for teaching with generative AI. The workshop covers the basics of using generative AI, the limitations of AI, what to expect of academic policies in the near future, and so on. This workshop was limited to USD's School of Business which exhibits my ability to interpret highly technical and relevant content into communications digestible for the business side of things. These skills are transferable to technical writing, project managme
-nt, and Science Leadership/Managment. See brief sample of my curriculum design [here](https://github.com/user-attachments/files/19065534/Design.Material.GenAI.pdf).  
+nt, and Science Leadership/Managment. See brief sample of my curriculum design 
+<img src="https://github.com/user-attachments/assets/c2eca954-e736-4790-864b-4644402dd1c0" width="600">  
+[here](https://github.com/user-attachments/files/19065534/Design.Material.GenAI.pdf).  
 <img src="https://github.com/user-attachments/assets/d2c3cd58-b58a-4edc-8c2e-3b9fbb6f10ae" width="600">
 <img src="https://github.com/user-attachments/assets/3b4b282c-8c9a-453c-943f-9ed127874a31" width="600"> 
 
